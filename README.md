@@ -1,6 +1,6 @@
-# MQTT_IoT_Scappy
+# MQTT_IoT_Scapy
 
-IoT traffic simulation using Scappy 
+IoT traffic simulation using Scapy 
 Creating a Simulated Smart Home with Scapy
 
 To give my students a hands-on IoT forensics lab without needing physical devices, I created a simulated network using Scapy. The idea was to mimic MQTT traffic between virtual smart home devices and a broker, then export the result as a PCAP file.
@@ -49,4 +49,4 @@ By combining Scapy with MQTT, we can simulate smart home behavior in a repeatabl
 
 A simple way to analyze IoT traffic.
 
-Both the PY Script and Pcap are available in this repo.  Feel free to build upon this for educational purposes. 
+This repo contains both the Python script and Pcap. Please feel free to build upon this for educational purposes. 
